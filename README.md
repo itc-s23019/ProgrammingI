@@ -1,5 +1,4 @@
 # Programming I
-- programmingI
 ## 教科書課題
 ### 第1章　Pythonの基本
 - 1.1 Pythonとその特徴
