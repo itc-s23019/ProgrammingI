@@ -27,7 +27,7 @@ chapter2最終課題([Q2_final.py](CHAPTER02/Q2_final.py))
 - 3.3 for文の基礎([Q3_3_1.py](CHAPTER03/Q3_3_1.py))([Q3_3_2.py](CHAPTER03/Q3_3_2.py))
 - 3.4 for文の応用([Q3_4_1.py](CHAPTER03/Q3_4_1.py))([Q3_4_2.py](CHAPTER03/Q3_4_2.py))
 - 3.5 while文の基礎([Q3_5_1.py](CHAPTER03/Q3_5_1.py))([Q3_5_2.py](CHAPTER03/Q3_5_2.py))
-- 3.6 whileを使ったプログラミング
+- 3.6 whileを使ったプログラミング([Q3_6_1.py](CHAPTER03/Q3_6_1.py))([Q3_6_2.py](CHAPTER03/Q3_6_2.py))
 - 3.7 ファイルの操作
 - 3.8 バイナリファイルの扱い
 ### CHAPTER4 関数
