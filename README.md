@@ -40,7 +40,7 @@ chapter2最終課題([Q2_final.py](CHAPTER02/Q2_final.py))
 - 4.7 関数の中の関数
 - 4.8 デコレータ
 - 4.9 コーディングスタイル
-- 九九の表([Q_10_1.py](CHAPTER04/9*9.py))
+- 九九の表([Q_10_1.py](CHAPTER04/Q_10_1.py))
 
 ### CHAPTER5 データ構造
 - 5.1 リストのメソッド
