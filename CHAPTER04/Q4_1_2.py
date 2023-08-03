@@ -1,7 +1,13 @@
-def fib2(n):
+def fid(n):
     result = []
-    a, b = 0, 1
+    a = 0
+    b = 1
     while a < n:
         result.append(a)
-        a, b = b, a + b
+        a = b
+        b = a + b
+        print(result)
     return result
+
+
+fid(100)
