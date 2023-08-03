@@ -33,7 +33,7 @@ chapter2最終課題([Q2_final.py](CHAPTER02/Q2_final.py))
 ### CHAPTER4 関数
 - 4.1 関数の書き方([Q4_1_1.py](CHAPTER04/Q4_1_1.py))([Q4_1_2.py](CHAPTER04/Q4_1_2.py))
 - 4.2 キーワード引数([Q4_2_1.py](CHAPTER04/Q4_2_1.py))([Q4_2_2.py](CHAPTER04/Q4_2_2.py))
-- 4.3 引数リスト([Q4_3_1.py](CAHPTER04/Q4_3_1.py))([Q4_3_2.py](CHAPTER04/Q4_3_2.py))
+- 4.3 引数リスト([Q4_3_1.py](CHAPTER04/Q4_3_1.py))([Q4_3_2.py](CHAPTER04/Q4_3_2.py))
 - 4.4 関数とスコープ([Q4_4_1.py](CHAPTER04/Q4_4_1.py))([Q4_4_2.py](CHAPTER04/Q4_4_2.py))
 - 4.5 関数はオブジェクト
 - 4.6 ラムダ式
