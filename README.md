@@ -36,7 +36,7 @@ chapter2最終課題([Q2_final.py](CHAPTER02/Q2_final.py))
 - 4.3 引数リスト([Q4_3_1.py](CHAPTER04/Q4_3_1.py))([Q4_3_2.py](CHAPTER04/Q4_3_2.py))
 - 4.4 関数とスコープ([Q4_4_1.py](CHAPTER04/Q4_4_1.py))([Q4_4_2.py](CHAPTER04/Q4_4_2.py))
 - 4.5 関数はオブジェクト
-- 4.6 ラムダ式
+- 4.6 ラムダ式([Q4_6_1.py](CHAPTER04/Q4_6_1.py))([Q4_6_2.py](CHAPTER04/Q4_6_2.py))
 - 4.7 関数の中の関数
 - 4.8 デコレータ
 - 4.9 コーディングスタイル
