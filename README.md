@@ -37,9 +37,9 @@ chapter2最終課題([Q2_final.py](CHAPTER02/Q2_final.py))
 - 4.4 関数とスコープ([Q4_4_1.py](CHAPTER04/Q4_4_1.py))([Q4_4_2.py](CHAPTER04/Q4_4_2.py))
 - 4.5 関数はオブジェクト
 - 4.6 ラムダ式([Q4_6_1.py](CHAPTER04/Q4_6_1.py))([Q4_6_2.py](CHAPTER04/Q4_6_2.py))
-- 4.7 関数の中の関数
-- 4.8 デコレータ
-- 4.9 コーディングスタイル
+- 4.7 関数の中の関数([Q4_7_1.py](CHAPTER04/Q4_7_1.py))
+- 4.8 デコレータ([Q4_8_1.py](CHAPTER04/Q4_8_1.py))
+- 4.9 コーディングスタイル([Q4_9_1.py](CHAPTER04/Q4_9_1.py))([Q4_9_2.py](CHAPTER04/Q4_9_2.py))
 - 九九の表([Q4_10_1.py](CHAPTER04/Q4_10_1.py))
 
 ### CHAPTER5 データ構造
